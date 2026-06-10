@@ -1,22 +1,87 @@
-# Criando um script simples para organizar as ideias do README e garantir uma estrutura perfeita.
-readme_content = """# Olá, eu sou o Igor! 👋
-🎓 Sobre Mim
-🏫 Atualmente no 1º Semestre de ADS na FIAP.
+<div align="center">
 
-🛠️ Focado em aprender os fundamentos de desenvolvimento de software, modelagem de dados e arquitetura de negócios digitais.
+# 👋 Olá, eu sou Igor Rodrigues
 
-💡 Buscando construir soluções eficientes, integrando automação inteligente com excelente experiência de usuário (UX).
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 
-💻 Stack & Tecnologias
-O que estou aprendendo e aplicando em projetos acadêmicos e desafios reais:
+💻 Apaixonado por tecnologia, desenvolvimento de software e Inteligência Artificial.
 
-📈 Estatísticas do GitHub
-🛠️ Sistemas Operacionais & Ferramentas
-🐧 Linux (Ubuntu) como ambiente principal de codificação e produtividade (Dual Boot).
+---
 
-⚙️ Integrações inteligentes e assistentes virtuais (IBM Watsonx Assistant).
+### 🚀 Tecnologias que estou estudando
 
-📦 Versionamento de código e fluxos ágeis com Git & GitHub.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python" />
+</p>
 
-📫 Vamos nos conectar?
-Seja para discutir um projeto da faculdade, trocar ideias sobre IA ou desenvolvimento de software, sinta-se à vontade para me mandar uma mensagem!
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge">
+</p>
+
+---
+
+### 📚 Atualmente aprendendo
+
+🌐 Desenvolvimento Web
+
+☕ Java
+
+🐍 Python
+
+🗄️ Banco de Dados SQL
+
+🤖 Inteligência Artificial
+
+🔧 Git e GitHub
+
+---
+
+### 🛠️ Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+</p>
+
+---
+
+### 📊 Estatísticas GitHub
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🎯 Objetivos
+
+✅ Evoluir como Desenvolvedor Full Stack
+
+✅ Aprimorar conhecimentos em Banco de Dados
+
+✅ Trabalhar com Inteligência Artificial
+
+✅ Desenvolver soluções que gerem impacto real
+
+---
+
+### 🌎 Conecte-se comigo
+
+<a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/SEU_USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+### 💡 Frase que me inspira
+
+> "A melhor maneira de prever o futuro é criá-lo."
+
+⭐ Sempre aprendendo, construindo e evoluindo através da tecnologia.
+
+</div>
